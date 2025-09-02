@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Eunhye 👋</h1>
 
-<!--
-**eunhyekimyeah/eunhyekimyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🎓 Student @ Soongsil Univ.
+- 📬 <a href="rladmsgp031219@naver.com">Email</a>
+- 💻 Frontend Developer (React Native)
+- 📚 Currently studying **CS fundamentals & algorithms** to strengthen problem-solving
 
-Here are some ideas to get you started:
+## Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
