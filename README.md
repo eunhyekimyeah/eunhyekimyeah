@@ -4,7 +4,7 @@
 - 🎓 Student @ Soongsil Univ.
 - 📬 <a href="rladmsgp031219@naver.com">Email</a>
 - 💻 Frontend Developer (React Native)
-- 📚 Currently studying **CS fundamentals & algorithms** to strengthen problem-solving
+- 📚 Preparing for SAP Cloud Certification while refining Algorithm problem-solving skills
 
 ## Tech Stack
 <div>
