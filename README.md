@@ -18,4 +18,3 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/ABAP-008FD3?style=flat&logo=sap&logoColor=white" />
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e791def-4212-43cf-b723-5d044f8cad29" data-share-badge-host="https://www.credly.com"></div>
