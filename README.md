@@ -3,8 +3,7 @@
 ## About me
 - 🎓 Student @ Soongsil Univ.
 - 📬 <a href="rladmsgp031219@naver.com">Email</a>
-- 💻 Frontend Developer (React Native)
-- 📚 Preparing for **SAP Cloud Certification** while refining **Algorithm problem-solving skills**
+- 💻 Frontend Developer (React, React Native)
 - 🏆 Naver Cloud Special Award (네이버클라우드<img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white" /> 상) - K-PaaS Cloud Contest 
 
 ## Tech Stack
@@ -19,4 +18,4 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/ABAP-008FD3?style=flat&logo=sap&logoColor=white" />
 </div>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e791def-4212-43cf-b723-5d044f8cad29" data-share-badge-host="https://www.credly.com"></div>
