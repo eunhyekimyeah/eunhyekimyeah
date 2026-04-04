@@ -4,7 +4,8 @@
 - 🎓 Student @ Soongsil Univ.
 - 📬 <a href="rladmsgp031219@naver.com">Email</a>
 - 💻 Frontend Developer (React, React Native)
-- 🏆 Naver Cloud Special Award (네이버클라우드<img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white" /> 상) - K-PaaS Cloud Contest 
+- 🏆 Naver Cloud Special Award (네이버클라우드<img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white" /> 상) - K-PaaS Cloud Contest
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="28"/> SAP Certified Associate Back-End Developer 
 
 ## Tech Stack
 <div>
